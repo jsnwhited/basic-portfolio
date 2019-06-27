@@ -1,0 +1,46 @@
+
+.header {
+    background:#ffffff;
+    border-bottom: 1px solid #cccccc;
+    padding: 30px;
+    font-family: 'Georgia', Times, Times, serif;
+    position: relative;
+
+}
+
+
+.nameheading {
+    background: #4aaaa5;
+    color:white;
+    padding: 20px;
+    border-bottom: 1px solid #cccccc;
+    width: 175px;
+    position: absolute;
+    left: 200px;
+    top: -20px;
+    text-align: center;
+}
+
+.nav {
+    background: #ffffff;
+    color:white;
+    padding: 19px;
+    border-bottom: 1px solid #cccccc;
+    width: 300px;
+    position: absolute;
+    right: 100px;
+    top: -20px;
+   
+
+}
+
+.list-horizontal li {
+    display:inline-block;
+  
+}
+
+.list-horizontal a {
+    color: #777777;
+    text-decoration: none;
+  
+}
